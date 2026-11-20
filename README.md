@@ -1,9 +1,14 @@
 # 🚀 TotthoHub Tools
 ### Multi-Service Digital Portal & Order Management System
 
+<p align="center">
+  <img src="assets/preview.png" alt="TotthoHub Tools Preview" width="100%">
+</p>
+
 **TotthoHub Tools** is a comprehensive PHP and MySQL-based multi-service web platform designed for digital service providers, agencies, and entrepreneurs. It brings together NID-related services, voter information search, service management, automated and manual order processing, user wallet management, deposit tracking, and order fulfillment in a centralized, mobile-friendly dashboard.
 
-🔗 **Live Demo:** [https://tools.totthohub.com](https://tools.totthohub.com)
+🔗 **Live Demo:** [https://tools.totthohub.com](https://tools.totthohub.com)  
+🛒 **Get Full Source Code:** [Buy Now on DoniaWeB](https://doniaweb.com/file/8591-th-tools-multi-service-digital-portal-order-management-system/)
 
 ---
 
@@ -191,7 +196,7 @@ Detailed installation instructions should be followed from the supplied document
 
 ## 📁 Repository Structure
 
-```text
+~~~text
 totthohub-tools/
 │
 ├── README.md
@@ -277,7 +282,7 @@ totthohub-tools/
     ├── user__mobile__24-About-Us.png
     ├── user__mobile__25-Privacy-Policy.png
     └── user__mobile__26-Refund-Policy.png
-```
+~~~
 
 ---
 
@@ -285,12 +290,13 @@ totthohub-tools/
 
 This repository serves as the public showcase and documentation repository for **TotthoHub Tools**.
 
-The complete commercial application source code is not included in this public repository.
+The complete commercial application source code is not included in this public repository and is available exclusively via authorized marketplaces:
 
+- **Purchase Full Source Code:** [DoniaWeB Official Listing](https://doniaweb.com/file/8591-th-tools-multi-service-digital-portal-order-management-system/)
 - **Project:** TotthoHub Tools
-- **Developer:** Mojib Rsm
-- **Ecosystem:** TotthoHub
-- **Live Platform:** [tools.totthohub.com](https://tools.totthub.com)
+- **Developer:** [Mojib Rsm](https://www.mojib.me)
+- **Ecosystem:** [TotthoHub](https://totthohub.com)
+- **Live Platform:** [tools.totthohub.com](https://tools.totthohub.com)
 - **Repository Purpose:** Public Showcase & Screenshots
 
 All rights to the original project materials are reserved by their respective owners. Third-party components remain subject to their respective licenses.
