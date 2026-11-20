@@ -1,38 +1,38 @@
-# 🚀 TotthoHub Tools
-### Multi-Service Digital Portal & Order Management System
+# 🚀 TotthoHub Tools — PHP Multi-Service Digital Portal & Order Management System
 
 <p align="center">
-  <img src="assets/preview.png" alt="TotthoHub Tools Preview" width="100%">
+  <img src="assets/preview.png" alt="TotthoHub Tools PHP Multi-Service Script User and Admin Dashboard Preview" width="100%">
 </p>
 
-**TotthoHub Tools** is a comprehensive PHP and MySQL-based multi-service web platform designed for digital service providers, agencies, and entrepreneurs. It brings together NID-related services, voter information search, service management, automated and manual order processing, user wallet management, deposit tracking, and order fulfillment in a centralized, mobile-friendly dashboard.
+**TotthoHub Tools** is a complete PHP and MySQL multi-service web platform and order management system built for digital service providers, online service agencies, and entrepreneurs. It combines NID verification and lookup services, voter information search, service management, automated and manual order fulfillment, user wallet & recharge tracking, and transaction management inside a responsive desktop and mobile dashboard.
 
 🔗 **Live Demo:** [https://tools.totthohub.com](https://tools.totthohub.com)  
-🛒 **Get Full Source Code:** [Buy Now on DoniaWeB](https://doniaweb.com/file/8591-th-tools-multi-service-digital-portal-order-management-system/)
+🛒 **Purchase Full Source Code:** [Buy TH Tools on DoniaWeB](https://doniaweb.com/file/8591-th-tools-multi-service-digital-portal-order-management-system/)  
+🌐 **Platform:** [TotthoHub](https://totthohub.com) | **Developer:** [Mojib Rsm](https://www.mojib.me)
 
 ---
 
 ## 📸 Interface Showcase & Screenshots
 
-Explore the user interface and administrative features of TotthoHub Tools across desktop and mobile devices.
+Explore the user panel and admin dashboard interfaces of **TotthoHub Tools** across desktop and mobile screens.
 
 ## 🛡️ Admin Panel - Desktop View
 
 | Admin Dashboard | All Orders | Pending Recharge | Work History |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](screenshots/admin__desktop__01-Admin-Dashboard.png) | ![All Orders](screenshots/admin__desktop__02-All-Orders-Log.png) | ![Pending Recharge](screenshots/admin__desktop__03-Pending-Recharge.png) | ![Work History](screenshots/admin__desktop__04-Work-History.png) |
+| ![TH Tools Admin Dashboard PHP](screenshots/admin__desktop__01-Admin-Dashboard.png) | ![TH Tools All Orders Log](screenshots/admin__desktop__02-All-Orders-Log.png) | ![TH Tools Pending Recharge Queue](screenshots/admin__desktop__03-Pending-Recharge.png) | ![TH Tools Admin Work History](screenshots/admin__desktop__04-Work-History.png) |
 
 | Service On/Off | Master Pricing | Add New Service | User List |
 |:---:|:---:|:---:|:---:|
-| ![Service Toggle](screenshots/admin__desktop__05-Service-On-Off.png) | ![Master Pricing](screenshots/admin__desktop__06-Master-Pricing.png) | ![Add Service](screenshots/admin__desktop__07-Add-New-Service.png) | ![User List](screenshots/admin__desktop__08-User-List.png) |
+| ![TH Tools Service On Off Toggle](screenshots/admin__desktop__05-Service-On-Off.png) | ![TH Tools Master Pricing Control](screenshots/admin__desktop__06-Master-Pricing.png) | ![TH Tools Add New Service](screenshots/admin__desktop__07-Add-New-Service.png) | ![TH Tools User List Management](screenshots/admin__desktop__08-User-List.png) |
 
 | Balance Management | Registration Link | Notice Update | Admin Profile |
 |:---:|:---:|:---:|:---:|
-| ![Balance Management](screenshots/admin__desktop__09-Balance-Add-Deduct.png) | ![Registration Link](screenshots/admin__desktop__10-Registration-Link.png) | ![Notice Update](screenshots/admin__desktop__11-Notice-Update.png) | ![Admin Profile](screenshots/admin__desktop__12-Admin-Profile.png) |
+| ![TH Tools Balance Add Deduct](screenshots/admin__desktop__09-Balance-Add-Deduct.png) | ![TH Tools Registration Link Settings](screenshots/admin__desktop__10-Registration-Link.png) | ![TH Tools Notice Update](screenshots/admin__desktop__11-Notice-Update.png) | ![TH Tools Admin Profile](screenshots/admin__desktop__12-Admin-Profile.png) |
 
 | User Details |
 |:---:|
-| ![User Details](screenshots/admin__desktop__13-User-Details.png) |
+| ![TH Tools User Details View](screenshots/admin__desktop__13-User-Details.png) |
 
 ---
 
@@ -40,11 +40,11 @@ Explore the user interface and administrative features of TotthoHub Tools across
 
 | Dashboard | Orders | Pending Recharge | Work History | Service Toggle |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Mobile Dashboard](screenshots/admin__mobile__01-Admin-Dashboard.png) | ![Mobile Orders](screenshots/admin__mobile__02-All-Orders-Log.png) | ![Mobile Recharge](screenshots/admin__mobile__03-Pending-Recharge.png) | ![Mobile History](screenshots/admin__mobile__04-Work-History.png) | ![Mobile Toggle](screenshots/admin__mobile__05-Service-On-Off.png) |
+| ![TH Tools Mobile Admin Dashboard](screenshots/admin__mobile__01-Admin-Dashboard.png) | ![TH Tools Mobile Orders Log](screenshots/admin__mobile__02-All-Orders-Log.png) | ![TH Tools Mobile Pending Recharge](screenshots/admin__mobile__03-Pending-Recharge.png) | ![TH Tools Mobile Work History](screenshots/admin__mobile__04-Work-History.png) | ![TH Tools Mobile Service Toggle](screenshots/admin__mobile__05-Service-On-Off.png) |
 
 | Master Pricing | Add Service | User List | Balance Management |
 |:---:|:---:|:---:|:---:|
-| ![Master Pricing](screenshots/admin__mobile__06-Master-Pricing.png) | ![Add Service](screenshots/admin__mobile__07-Add-New-Service.png) | ![User List](screenshots/admin__mobile__08-User-List.png) | ![Balance Management](screenshots/admin__mobile__09-Balance-Add-Deduct.png) |
+| ![TH Tools Mobile Master Pricing](screenshots/admin__mobile__06-Master-Pricing.png) | ![TH Tools Mobile Add Service](screenshots/admin__mobile__07-Add-New-Service.png) | ![TH Tools Mobile User List](screenshots/admin__mobile__08-User-List.png) | ![TH Tools Mobile Balance Control](screenshots/admin__mobile__09-Balance-Add-Deduct.png) |
 
 ---
 
@@ -52,35 +52,35 @@ Explore the user interface and administrative features of TotthoHub Tools across
 
 | Dashboard | Script Shop | Voter Search | Server Copy |
 |:---:|:---:|:---:|:---:|
-| ![Dashboard](screenshots/user__desktop__01-Dashboard.png) | ![Script Shop](screenshots/user__desktop__02-Script-Shop.png) | ![Voter Search](screenshots/user__desktop__03-Voter-Search.png) | ![Server Copy](screenshots/user__desktop__04-Server-Copy.png) |
+| ![TH Tools User Dashboard](screenshots/user__desktop__01-Dashboard.png) | ![TH Tools Built-in Script Shop](screenshots/user__desktop__02-Script-Shop.png) | ![TH Tools Voter Search Module](screenshots/user__desktop__03-Voter-Search.png) | ![TH Tools Server Copy Service](screenshots/user__desktop__04-Server-Copy.png) |
 
 | Official Copy | My Orders | Recharge | Profile |
 |:---:|:---:|:---:|:---:|
-| ![Official Copy](screenshots/user__desktop__05-Official-Copy.png) | ![My Orders](screenshots/user__desktop__06-My-Orders.png) | ![Recharge](screenshots/user__desktop__07-Recharge.png) | ![Profile](screenshots/user__desktop__08-Profile.png) |
+| ![TH Tools Official Copy Service](screenshots/user__desktop__05-Official-Copy.png) | ![TH Tools User Orders History](screenshots/user__desktop__06-My-Orders.png) | ![TH Tools Wallet Recharge](screenshots/user__desktop__07-Recharge.png) | ![TH Tools User Profile](screenshots/user__desktop__08-Profile.png) |
 
 ### NID & Information Services
 
 | Voter to NID | Advanced NID Search | Birth Registration | NID Password Set |
 |:---:|:---:|:---:|:---:|
-| ![Voter to NID](screenshots/user__desktop__09-Voter-to-NID.png) | ![Advanced NID Search](screenshots/user__desktop__10-Advanced-NID-Search.png) | ![Birth Registration](screenshots/user__desktop__11-Birth-Registration.png) | ![NID Password](screenshots/user__desktop__12-NID-Password-Set.png) |
+| ![TH Tools Voter to NID Lookup](screenshots/user__desktop__09-Voter-to-NID.png) | ![TH Tools Advanced NID Search](screenshots/user__desktop__10-Advanced-NID-Search.png) | ![TH Tools Birth Registration Service](screenshots/user__desktop__11-Birth-Registration.png) | ![TH Tools NID Password Set](screenshots/user__desktop__12-NID-Password-Set.png) |
 
 | NID Lost Correction | Cross ID Search | TIN Certificate | Number to Location |
 |:---:|:---:|:---:|:---:|
-| ![NID Correction](screenshots/user__desktop__13-NID-Lost-Correction.png) | ![Cross ID Search](screenshots/user__desktop__14-Cross-ID-Search.png) | ![TIN Certificate](screenshots/user__desktop__15-TIN-Certificate.png) | ![Number to Location](screenshots/user__desktop__16-Number-to-Location.png) |
+| ![TH Tools NID Lost Correction](screenshots/user__desktop__13-NID-Lost-Correction.png) | ![TH Tools Cross ID Search](screenshots/user__desktop__14-Cross-ID-Search.png) | ![TH Tools TIN Certificate Service](screenshots/user__desktop__15-TIN-Certificate.png) | ![TH Tools Number to Location](screenshots/user__desktop__16-Number-to-Location.png) |
 
 | IMEI Tracking | Number to Bio | NID to Number | MFS bKash Info |
 |:---:|:---:|:---:|:---:|
-| ![IMEI Tracking](screenshots/user__desktop__17-IMEI-Tracking.png) | ![Number to Bio](screenshots/user__desktop__18-Number-to-Bio.png) | ![NID to Number](screenshots/user__desktop__19-NID-to-Number.png) | ![MFS Info](screenshots/user__desktop__20-MFS-bKash-Info.png) |
+| ![TH Tools IMEI Tracking](screenshots/user__desktop__17-IMEI-Tracking.png) | ![TH Tools Number to Bio](screenshots/user__desktop__18-Number-to-Bio.png) | ![TH Tools NID to Number](screenshots/user__desktop__19-NID-to-Number.png) | ![TH Tools MFS bKash Info](screenshots/user__desktop__20-MFS-bKash-Info.png) |
 
 | Call List / CDR | Passport Services | BMET Services |
 |:---:|:---:|:---:|
-| ![Call List](screenshots/user__desktop__21-Call-List-CDR.png) | ![Passport Services](screenshots/user__desktop__22-Passport-Services.png) | ![BMET Services](screenshots/user__desktop__23-BMET-Services.png) |
+| ![TH Tools Call List CDR](screenshots/user__desktop__21-Call-List-CDR.png) | ![TH Tools Passport Services](screenshots/user__desktop__22-Passport-Services.png) | ![TH Tools BMET Services](screenshots/user__desktop__23-BMET-Services.png) |
 
 ### Information & Policies
 
 | About Us | Privacy Policy | Refund Policy |
 |:---:|:---:|:---:|
-| ![About Us](screenshots/user__desktop__24-About-Us.png) | ![Privacy Policy](screenshots/user__desktop__25-Privacy-Policy.png) | ![Refund Policy](screenshots/user__desktop__26-Refund-Policy.png) |
+| ![TH Tools About Us Page](screenshots/user__desktop__24-About-Us.png) | ![TH Tools Privacy Policy Page](screenshots/user__desktop__25-Privacy-Policy.png) | ![TH Tools Refund Policy Page](screenshots/user__desktop__26-Refund-Policy.png) |
 
 ---
 
@@ -88,35 +88,35 @@ Explore the user interface and administrative features of TotthoHub Tools across
 
 | Dashboard | Script Shop | Voter Search | Server Copy |
 |:---:|:---:|:---:|:---:|
-| ![Mobile Dashboard](screenshots/user__mobile__01-Dashboard.png) | ![Mobile Script Shop](screenshots/user__mobile__02-Script-Shop.png) | ![Mobile Voter Search](screenshots/user__mobile__03-Voter-Search.png) | ![Mobile Server Copy](screenshots/user__mobile__04-Server-Copy.png) |
+| ![TH Tools Mobile User Dashboard](screenshots/user__mobile__01-Dashboard.png) | ![TH Tools Mobile Script Shop](screenshots/user__mobile__02-Script-Shop.png) | ![TH Tools Mobile Voter Search](screenshots/user__mobile__03-Voter-Search.png) | ![TH Tools Mobile Server Copy](screenshots/user__mobile__04-Server-Copy.png) |
 
 | Official Copy | My Orders | Recharge | Profile |
 |:---:|:---:|:---:|:---:|
-| ![Official Copy](screenshots/user__mobile__05-Official-Copy.png) | ![My Orders](screenshots/user__mobile__06-My-Orders.png) | ![Recharge](screenshots/user__mobile__07-Recharge.png) | ![Profile](screenshots/user__mobile__08-Profile.png) |
+| ![TH Tools Mobile Official Copy](screenshots/user__mobile__05-Official-Copy.png) | ![TH Tools Mobile My Orders](screenshots/user__mobile__06-My-Orders.png) | ![TH Tools Mobile Wallet Recharge](screenshots/user__mobile__07-Recharge.png) | ![TH Tools Mobile User Profile](screenshots/user__mobile__08-Profile.png) |
 
 ### NID & Information Services
 
 | Voter to NID | Advanced NID Search | Birth Registration | NID Password Set |
 |:---:|:---:|:---:|:---:|
-| ![Voter to NID](screenshots/user__mobile__09-Voter-to-NID.png) | ![Advanced NID Search](screenshots/user__mobile__10-Advanced-NID-Search.png) | ![Birth Registration](screenshots/user__mobile__11-Birth-Registration.png) | ![NID Password](screenshots/user__mobile__12-NID-Password-Set.png) |
+| ![TH Tools Mobile Voter to NID](screenshots/user__mobile__09-Voter-to-NID.png) | ![TH Tools Mobile Advanced NID Search](screenshots/user__mobile__10-Advanced-NID-Search.png) | ![TH Tools Mobile Birth Registration](screenshots/user__mobile__11-Birth-Registration.png) | ![TH Tools Mobile NID Password Set](screenshots/user__mobile__12-NID-Password-Set.png) |
 
 | NID Lost Correction | Cross ID Search | TIN Certificate | Number to Location |
 |:---:|:---:|:---:|:---:|
-| ![NID Correction](screenshots/user__mobile__13-NID-Lost-Correction.png) | ![Cross ID Search](screenshots/user__mobile__14-Cross-ID-Search.png) | ![TIN Certificate](screenshots/user__mobile__15-TIN-Certificate.png) | ![Number to Location](screenshots/user__mobile__16-Number-to-Location.png) |
+| ![TH Tools Mobile NID Correction](screenshots/user__mobile__13-NID-Lost-Correction.png) | ![TH Tools Mobile Cross ID Search](screenshots/user__mobile__14-Cross-ID-Search.png) | ![TH Tools Mobile TIN Certificate](screenshots/user__mobile__15-TIN-Certificate.png) | ![TH Tools Mobile Number to Location](screenshots/user__mobile__16-Number-to-Location.png) |
 
 | IMEI Tracking | Number to Bio | NID to Number | MFS bKash Info |
 |:---:|:---:|:---:|:---:|
-| ![IMEI Tracking](screenshots/user__mobile__17-IMEI-Tracking.png) | ![Number to Bio](screenshots/user__mobile__18-Number-to-Bio.png) | ![NID to Number](screenshots/user__mobile__19-NID-to-Number.png) | ![MFS Info](screenshots/user__mobile__20-MFS-bKash-Info.png) |
+| ![TH Tools Mobile IMEI Tracking](screenshots/user__mobile__17-IMEI-Tracking.png) | ![TH Tools Mobile Number to Bio](screenshots/user__mobile__18-Number-to-Bio.png) | ![TH Tools Mobile NID to Number](screenshots/user__mobile__19-NID-to-Number.png) | ![TH Tools Mobile MFS bKash Info](screenshots/user__mobile__20-MFS-bKash-Info.png) |
 
 | Call List / CDR | Passport Services | BMET Services |
 |:---:|:---:|:---:|
-| ![Call List](screenshots/user__mobile__21-Call-List-CDR.png) | ![Passport Services](screenshots/user__mobile__22-Passport-Services.png) | ![BMET Services](screenshots/user__mobile__23-BMET-Services.png) |
+| ![TH Tools Mobile Call List CDR](screenshots/user__mobile__21-Call-List-CDR.png) | ![TH Tools Mobile Passport Services](screenshots/user__mobile__22-Passport-Services.png) | ![TH Tools Mobile BMET Services](screenshots/user__mobile__23-BMET-Services.png) |
 
 ### Information & Policies
 
 | About Us | Privacy Policy | Refund Policy |
 |:---:|:---:|:---:|
-| ![About Us](screenshots/user__mobile__24-About-Us.png) | ![Privacy Policy](screenshots/user__mobile__25-Privacy-Policy.png) | ![Refund Policy](screenshots/user__mobile__26-Refund-Policy.png) |
+| ![TH Tools Mobile About Us](screenshots/user__mobile__24-About-Us.png) | ![TH Tools Mobile Privacy Policy](screenshots/user__mobile__25-Privacy-Policy.png) | ![TH Tools Mobile Refund Policy](screenshots/user__mobile__26-Refund-Policy.png) |
 
 ---
 
@@ -124,37 +124,37 @@ Explore the user interface and administrative features of TotthoHub Tools across
 
 ### 👤 User Panel
 
-- **Responsive User Dashboard:** Modern and mobile-friendly interface.
-- **NID & Voter Services:** Dedicated interfaces for NID-related services and voter information search.
-- **Script Shop:** Centralized service and script catalog.
-- **Wallet & Recharge System:** Balance management, deposit requests, and transaction history.
-- **Order Tracking:** Monitor pending, processing, and completed requests.
-- **Service Categories:** Access different digital service modules from one dashboard.
-- **Account Management:** User profile and account settings.
-- **Information Pages:** About Us, Privacy Policy, and Refund Policy.
+- **Responsive User Dashboard:** Clean, fast, and mobile-friendly interface for desktop and mobile users.
+- **NID & Voter Services:** Dedicated modules for NID services, voter information lookup, and related requests.
+- **Script Shop:** Built-in service and script catalog for digital offerings.
+- **Wallet & Recharge System:** User balance management, recharge/deposit requests, and transaction logs.
+- **Order Tracking:** Real-time monitoring for pending, processing, and completed service orders.
+- **Service Categories:** Organized access to multiple digital service modules from one portal.
+- **Account Management:** User profile editing and account settings.
+- **Information Pages:** Ready-to-use About Us, Privacy Policy, and Refund Policy pages.
 
 ### 🛡️ Advanced Admin Panel
 
-- **Dashboard Overview:** Centralized administrative interface.
-- **Order Management:** View and manage all service orders.
-- **Recharge Management:** Review pending recharge requests.
-- **Work History:** Track service processing activities.
-- **Service Control:** Enable or disable individual services.
-- **Master Pricing:** Configure service prices.
-- **Service Creation:** Add and manage service modules.
-- **User Management:** View user accounts and details.
-- **Balance Management:** Add or deduct user balances.
-- **Registration Control:** Manage registration links.
-- **Notice Management:** Update platform notices.
-- **Admin Profile:** Manage administrator information.
+- **Dashboard Overview:** Centralized administrative summary and quick metrics.
+- **Order Management:** View, filter, and process all customer service orders.
+- **Recharge Management:** Review and approve/reject pending balance recharge requests.
+- **Work History:** Track service execution logs and operational history.
+- **Service Control:** Enable or disable individual services on demand.
+- **Master Pricing:** Configure service prices centrally across the platform.
+- **Service Creation:** Add new service modules and manage existing ones.
+- **User Management:** Browse user accounts and inspect individual user details.
+- **Balance Management:** Add or deduct user wallet balances manually.
+- **Registration Control:** Manage user registration links and access settings.
+- **Notice Management:** Publish and update platform notices and announcements.
+- **Admin Profile:** Manage administrator profile and credentials.
 
 ### ⚙️ Processing & Management
 
-- Automated service processing where configured.
-- Manual order fulfillment.
-- Centralized order tracking.
-- Service availability controls.
-- User balance and transaction management.
+- Automated service processing where API/integrations are configured.
+- Manual order fulfillment workflow for custom or operator-handled services.
+- Centralized order tracking and status updates.
+- Flexible service availability and pricing controls.
+- Complete user wallet balance and transaction management.
 
 ---
 
@@ -176,7 +176,7 @@ Explore the user interface and administrative features of TotthoHub Tools across
 - MySQL 5.7+ or compatible MariaDB version.
 - Apache or Nginx web server.
 - Required PHP extensions: `mysqli`, `PDO`, `cURL`, `JSON`, `mbstring`.
-- Standard PHP-compatible hosting or VPS.
+- Standard PHP-compatible shared hosting or VPS.
 
 ---
 
@@ -188,9 +188,9 @@ Explore the user interface and administrative features of TotthoHub Tools across
 4. Configure database credentials in the application configuration.
 5. Configure application settings and authorized service integrations.
 6. Access the application through your domain.
-7. Log in to the admin panel and configure the platform.
+7. Log in to the admin panel and configure services, pricing, and notices.
 
-Detailed installation instructions should be followed from the supplied documentation.
+Follow the supplied installation documentation for full setup details.
 
 ---
 
@@ -288,9 +288,9 @@ totthohub-tools/
 
 ## 📄 Licensing & Commercial Use
 
-This repository serves as the public showcase and documentation repository for **TotthoHub Tools**.
+This repository serves as the official public showcase and documentation repository for **TotthoHub Tools**.
 
-The complete commercial application source code is not included in this public repository and is available exclusively via authorized marketplaces:
+The complete commercial application source code is not included in this public repository and is available exclusively through authorized marketplaces:
 
 - **Purchase Full Source Code:** [DoniaWeB Official Listing](https://doniaweb.com/file/8591-th-tools-multi-service-digital-portal-order-management-system/)
 - **Project:** TotthoHub Tools
